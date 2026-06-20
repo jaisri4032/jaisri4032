@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,25:5D3FD3,50:6A0DAD,75:7F00FF,100:1E3A8A&text=Kodamanchili%20Jaisri&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Generative%20AI%20Enthusiast&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:111827,40:312E81,70:4338CA,100:5B21B6&text=Kodamanchili%20Jaisri&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Generative%20AI%20Enthusiast&descAlignY=58" width="100%" />
 
 # KODAMANCHILI JAISRI | FULL STACK DEVELOPER
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=7F00FF&center=true&vCenter=true&width=900&lines=Python+Full+Stack+Developer;Generative+AI+Enthusiast;Frontend+Explorer;Problem+Solver" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=818CF8&center=true&vCenter=true&width=900&lines=Python+Full+Stack+Developer;Generative+AI+Enthusiast;Frontend+Explorer;Problem+Solver" />
 
 <br>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE-5D3FD3?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/Graduation-2026-6A0DAD?style=for-the-badge&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/CGPA-70%25-7F00FF?style=for-the-badge&logo=analytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/B.Tech-CSE-4338CA?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Graduation-2026-312E81?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-70%25-5B21B6?style=for-the-badge&logo=analytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-111827?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br><br>
 
@@ -20,7 +20,7 @@
 </a>
 
 <a href="mailto:jaisrikodamanchili@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-4338CA?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/jaisri4032" target="_blank">
@@ -81,22 +81,22 @@ Beyond web development, I love exploring emerging technologies like Generative A
 <div align="center">
 
 ### Codegnan IT Solutions
-<img src="https://img.shields.io/badge/Python%20Full%20Stack-Trained-5D3FD3?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python%20Full%20Stack-Trained-4338CA?style=for-the-badge&logo=python&logoColor=white"/>
 
 <br><br>
 
 <a href="https://cg-course-completion-certificates.s3.amazonaws.com/Modules_completions/PFS-VSP-001/Python/CGVI0024.png" target="_blank">
-<img src="https://img.shields.io/badge/Python%20Core-Certificate-blue?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python%20Core-Certificate-312E81?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
 <a href="https://cg-course-completion-certificates.s3.amazonaws.com/Modules_completions/PFS-VSP-001/MySQL/CGVI0024.png" target="_blank">
-<img src="https://img.shields.io/badge/MySQL%20Database-Certificate-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL%20Database-Certificate-111827?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
 
 <br><br>
 
 ### Tech & Ecosystem Foundations
-<img src="https://img.shields.io/badge/SAWiT.AI-Learnathon-6A0DAD?style=for-the-badge&logo=ai&logoColor=white"/>
-<img src="https://img.shields.io/badge/GUVI-Generative%20AI%20%26%20UI%2FUX-7F00FF?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAWiT.AI-Learnathon-5B21B6?style=for-the-badge&logo=ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/GUVI-Generative%20AI%20%26%20UI%2FUX-4338CA?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 
 </div>
 
