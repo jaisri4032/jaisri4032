@@ -85,6 +85,15 @@ Beyond web development, I love exploring emerging technologies like Generative A
 
 <br><br>
 
+<a href="https://cg-course-completion-certificates.s3.amazonaws.com/Modules_completions/PFS-VSP-001/Python/CGVI0024.png" target="_blank">
+<img src="https://img.shields.io/badge/Python%20Core-Certificate-blue?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+<a href="https://cg-course-completion-certificates.s3.amazonaws.com/Modules_completions/PFS-VSP-001/MySQL/CGVI0024.png" target="_blank">
+<img src="https://img.shields.io/badge/MySQL%20Database-Certificate-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+<br><br>
+
 ### Tech & Ecosystem Foundations
 <img src="https://img.shields.io/badge/SAWiT.AI-Learnathon-6A0DAD?style=for-the-badge&logo=ai&logoColor=white"/>
 <img src="https://img.shields.io/badge/GUVI-Generative%20AI%20%26%20UI%2FUX-7F00FF?style=for-the-badge&logo=google-scholar&logoColor=white"/>
@@ -106,7 +115,7 @@ Beyond web development, I love exploring emerging technologies like Generative A
 
 <div align="center">
 
-<a href="https://www.hackerrank.com/profile/YOUR-HACKERRANK-USERNAME" target="_blank">
+<a href="https://www.hackerrank.com/profile/jaisrikodamanch1" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
