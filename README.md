@@ -10,15 +10,16 @@
 
 <img src="https://img.shields.io/badge/B.Tech-CSE-5D3FD3?style=for-the-badge&logo=academia&logoColor=white" />
 <img src="https://img.shields.io/badge/Graduation-2026-6A0DAD?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-70%25-7F00FF?style=for-the-badge&logo=analytics&logoColor=white" />
 <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:jaisrikodamanchili@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -79,11 +80,6 @@ Beyond web development, I love exploring emerging technologies like Generative A
 
 <div align="center">
 
-### Oracle Cloud Infrastructure
-<img src="https://img.shields.io/badge/OCI%20AI%20Foundations-Associate-1E3A8A?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<br><br>
-
 ### Codegnan IT Solutions
 <img src="https://img.shields.io/badge/Python%20Full%20Stack-Trained-5D3FD3?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -97,11 +93,20 @@ Beyond web development, I love exploring emerging technologies like Generative A
 
 ---
 
+# PROJECTS
+
+### 🚀 Heart Stroke Prediction System
+* **Tech Stack:** Python, Machine Learning (Ensemble Methods), Streamlit / Flask
+* **Description:** Developed a predictive analytics platform leveraging ensemble machine learning techniques to assess and forecast heart stroke probabilities based on patient healthcare metrics. 
+* **Key Focus:** Data processing pipelines, schema structuring, and implementing robust predictive modeling logic.
+
+---
+
 # CODING PROFILES
 
 <div align="center">
 
-<a href="https://www.hackerrank.com/profile/YOUR-HACKERRANK-USERNAME">
+<a href="https://www.hackerrank.com/profile/YOUR-HACKERRANK-USERNAME" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
@@ -121,19 +126,4 @@ Building:
   - Structured SQL Database Architectures
 Open_To:
   - Technical Collaborations
-  - Graduate Software Roles## Hi there 👋
-
-<!--
-**jaisri4032/jaisri4032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Graduate Software Roles
