@@ -15,7 +15,7 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/kodamanchili-jaisri-025302322" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Email-Contact%20Me-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
+<a href="https://github.com/jaisri4032" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
