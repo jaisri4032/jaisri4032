@@ -61,11 +61,11 @@ Beyond web development, I love exploring emerging technologies like Generative A
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=sql" />
+<img src="https://skillicons.dev/icons?i=sql,mysql" />
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
@@ -126,35 +126,6 @@ A predictive analytics platform leveraging ensemble machine learning techniques 
 | Problem Solving   | Active practice solving technical core logic   |
 | Platform Learning | Exploring cutting-edge generative AI spaces     |
 | Community Work    | Contributing verified local business mapping data |
-
-</div>
-
----
-
-# CERTIFICATIONS
-
-<div align="center">
-
-### Codegnan IT Solutions
-
-<img src="https://img.shields.io/badge/Python%20Full%20Stack-Trained-4B0082?style=for-the-badge&logo=python&logoColor=white"/>
-
-<br><br>
-
-<a href="https://cg-course-completion-certificates.s3.amazonaws.com/Modules_completions/PFS-VSP-001/Python/CGVI0024.png" target="_blank">
-<img src="https://img.shields.io/badge/Python%20Core-Certificate-5D3FD3?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-
-<a href="https://cg-course-completion-certificates.s3.amazonaws.com/Modules_completions/PFS-VSP-001/MySQL/CGVI0024.png" target="_blank">
-<img src="https://img.shields.io/badge/MySQL%20Database-Certificate-111827?style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
-
-<br><br>
-
-### Tech & Ecosystem Foundations
-
-<img src="https://img.shields.io/badge/SAWiT.AI-Learnathon-6A0DAD?style=for-the-badge&logo=ai&logoColor=white"/>
-<img src="https://img.shields.io/badge/GUVI-Generative%20AI%20%26%20UI%2FUX-7F00FF?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 
 </div>
 
