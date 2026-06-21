@@ -61,7 +61,7 @@ Beyond web development, I love exploring emerging technologies like Generative A
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=sql,mysql" />
+<img src="https://skillicons.dev/icons?i=sql,sql" />
 
 ### Tools & Platforms
 
@@ -75,12 +75,12 @@ Beyond web development, I love exploring emerging technologies like Generative A
 
 <div align="center">
 
-| Domain | Proficiency | Details |
+| Domain                   | Proficiency           | Details                                                          |
 | ------------------------ | ---------------------- | ----------------------------------------------------------------- |
-| Web Development | Intermediate | Structuring single-page applications using React and Redux |
-| Backend Programming | Strong | Logic design, API scripting using Python & Node.js architecture |
-| Database Engineering | Intermediate | Query optimization, database schemas, and structured data |
-| Generative AI | Enthusiast | Exploring foundation models, prompt workflows, and AI integration |
+| Web Development          | Intermediate            | Structuring single-page applications using React and Redux        |
+| Backend Programming       | Strong                  | Logic design, API scripting using Python & Node.js architecture   |
+| Database Engineering     | Intermediate            | Query optimization, database schemas, and structured data        |
+| Generative AI            | Enthusiast             | Exploring foundation models, prompt workflows, and AI integration |
 
 </div>
 
@@ -97,14 +97,14 @@ Beyond web development, I love exploring emerging technologies like Generative A
 
 A predictive analytics platform leveraging ensemble machine learning techniques to assess and forecast heart stroke probabilities based on patient healthcare metrics.
 
-| Category | Details |
+| Category    | Details                                      |
 | ----------- | --------------------------------------------- |
-| Stack | Python, Machine Learning (Ensemble), Streamlit / Flask |
-| Scale | Healthcare Predictive Simulation |
-| Performance | Optimized Data Inference Pipelines |
-| Security | Schema Validation & Structured Processing |
-| Impact | Strengthened logic modeling and data flows |
-| Repository | Active / Main Branch |
+| Stack       | Python, Machine Learning (Ensemble), Streamlit / Flask |
+| Scale       | Healthcare Predictive Simulation              |
+| Performance | Optimized Data Inference Pipelines           |
+| Security    | Schema Validation & Structured Processing      |
+| Impact      | Strengthened logic modeling and data flows   |
+| Repository  | Active / Main Branch                         |
 
 ### Key Features
 
@@ -121,11 +121,11 @@ A predictive analytics platform leveraging ensemble machine learning techniques 
 
 <div align="center">
 
-| Recognition | Details |
+| Recognition      | Details                                       |
 | ----------------- | ----------------------------------------------- |
-| Problem Solving | Active practice solving technical core logic |
-| Platform Learning | Exploring cutting-edge generative AI spaces |
-| Community Work | Contributing verified local business mapping data |
+| Problem Solving   | Active practice solving technical core logic   |
+| Platform Learning | Exploring cutting-edge generative AI spaces     |
+| Community Work    | Contributing verified local business mapping data |
 
 </div>
 
@@ -142,6 +142,16 @@ A predictive analytics platform leveraging ensemble machine learning techniques 
 </div>
 
 <br>
+
+# 🏆 MY PERFORMANCE TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jaisri4032&theme=dracula&no-frame=false&margin-w=15&row=1&column=4" />
+
+</div>
+
+---
 
 # 📈 CONTRIBUTION METRICS
 
