@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,25:5D3FD3,50:6A0DAD,75:7F00FF,100:1E3A8A&text=Kodamanchili%20Jaisri&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Generative%20AI%20Enthusiast&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B7882,25:5D3FD3,50:6A0DAD,75:7F00FF,100:1E3A8A&text=Kodamanchili%20Jaisri&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Generative%20AI%20Enthusiast&descAlignY=58" width="100%" />
 
 # KODAMANCHILI JAISRI | FULL STACK DEVELOPER
 
@@ -65,7 +65,7 @@ Beyond web development, I love exploring emerging technologies like Generative A
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
@@ -75,12 +75,12 @@ Beyond web development, I love exploring emerging technologies like Generative A
 
 <div align="center">
 
-| Domain                   | Proficiency           | Details                                                          |
+| Domain | Proficiency | Details |
 | ------------------------ | ---------------------- | ----------------------------------------------------------------- |
-| Web Development          | Intermediate            | Structuring single-page applications using React and Redux        |
-| Backend Programming       | Strong                  | Logic design, API scripting using Python & Node.js architecture   |
-| Database Engineering     | Intermediate            | Query optimization, database schemas, and structured data        |
-| Generative AI            | Enthusiast             | Exploring foundation models, prompt workflows, and AI integration |
+| Web Development | Intermediate | Structuring single-page applications using React and Redux |
+| Backend Programming | Strong | Logic design, API scripting using Python & Node.js architecture |
+| Database Engineering | Intermediate | Query optimization, database schemas, and structured data |
+| Generative AI | Enthusiast | Exploring foundation models, prompt workflows, and AI integration |
 
 </div>
 
@@ -97,14 +97,14 @@ Beyond web development, I love exploring emerging technologies like Generative A
 
 A predictive analytics platform leveraging ensemble machine learning techniques to assess and forecast heart stroke probabilities based on patient healthcare metrics.
 
-| Category    | Details                                      |
+| Category | Details |
 | ----------- | --------------------------------------------- |
-| Stack       | Python, Machine Learning (Ensemble), Streamlit / Flask |
-| Scale       | Healthcare Predictive Simulation              |
-| Performance | Optimized Data Inference Pipelines           |
-| Security    | Schema Validation & Structured Processing      |
-| Impact      | Strengthened logic modeling and data flows   |
-| Repository  | Active / Main Branch                         |
+| Stack | Python, Machine Learning (Ensemble), Streamlit / Flask |
+| Scale | Healthcare Predictive Simulation |
+| Performance | Optimized Data Inference Pipelines |
+| Security | Schema Validation & Structured Processing |
+| Impact | Strengthened logic modeling and data flows |
+| Repository | Active / Main Branch |
 
 ### Key Features
 
@@ -121,11 +121,37 @@ A predictive analytics platform leveraging ensemble machine learning techniques 
 
 <div align="center">
 
-| Recognition      | Details                                       |
+| Recognition | Details |
 | ----------------- | ----------------------------------------------- |
-| Problem Solving   | Active practice solving technical core logic   |
-| Platform Learning | Exploring cutting-edge generative AI spaces     |
-| Community Work    | Contributing verified local business mapping data |
+| Problem Solving | Active practice solving technical core logic |
+| Platform Learning | Exploring cutting-edge generative AI spaces |
+| Community Work | Contributing verified local business mapping data |
+
+</div>
+
+---
+
+# CERTIFICATIONS
+
+<div align="center">
+
+### Codegnan IT Solutions
+
+<img src="https://img.shields.io/badge/Python%20Full%20Stack-Trained-4B0082?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br><br>
+
+<a href="https://cg-course-completion-certificates.s3.amazonaws.com/Modules_completions/PFS-VSP-001/Python/CGVI0024.png" target="_blank">
+<img src="https://img.shields.io/badge/Python%20Core-Certificate-5D3FD3?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<a href="https://cg-course-completion-certificates.s3.amazonaws.com/Modules_completions/PFS-VSP-001/MySQL/CGVI0024.png" target="_blank">
+<img src="https://img.shields.io/badge/MySQL%20Database-Certificate-111827?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+<br><br>
+
+
 
 </div>
 
@@ -142,16 +168,6 @@ A predictive analytics platform leveraging ensemble machine learning techniques 
 </div>
 
 <br>
-
-# 🏆 MY PERFORMANCE TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jaisri4032&theme=dracula&no-frame=false&margin-w=15&row=1&column=4" />
-
-</div>
-
----
 
 # 📈 CONTRIBUTION METRICS
 
