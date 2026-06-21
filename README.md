@@ -172,21 +172,21 @@ A predictive analytics platform leveraging ensemble machine learning techniques 
 
 <br>
 
-# GITHUB TROPHIES
+# 🏆 MY PERFORMANCE TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jaisri4032&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=jaisri4032&theme=dracula&no-frame=false&margin-w=15&row=1&column=4" />
 
 </div>
 
 ---
 
-# CONTRIBUTION ACTIVITY
+# 📈 CONTRIBUTION METRICS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaisri4032&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaisri4032&theme=dracula&hide_border=true&bg_color=00000000" width="100%" />
 
 </div>
 
