@@ -1,33 +1,213 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0d1117&text=Kodamanchili%20Jaisri&fontSize=50&fontColor=00f2fe&fontAlignY=40&desc=Full%20Stack%20Engineer%20%E2%9A%A1%20Generative%20AI%20Enthusiast&descAlignY=65&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:008080,25:008B8B,50:20B2AA,75:48D1CC,100:00ced1&text=Kodamanchili%20Jaisri&fontSize=45&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Generative%20AI%20Enthusiast&descAlignY=58" width="100%" />
 
-<br/>
+# KODAMANCHILI JAISRI | FULL STACK DEVELOPER
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4facfe&center=true&vCenter=true&width=900&lines=%E2%86%AA+Python+Full+Stack+Developer;%E2%86%AA+Generative+AI+Architect;%E2%86%AA+Building+Scalable+Web+Ecosystems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=20B2AA&center=true&vCenter=true&width=900&lines=Python+Full+Stack+Developer;Generative+AI+Enthusiast;Frontend+Explorer;Problem+Solver" />
 
-### 🌐 Digital Coordinates
-[![Location](https://img.shields.io/badge/Anakapalli%2C%20India-00f2fe?style=flat-square&logo=googlemaps&logoColor=0d1117)](https://maps.google.com)
-[![B.Tech CSE](https://img.shields.io/badge/B.Tech%20CSE-2026-4facfe?style=flat-square&logo=academia&logoColor=white)](#)
-[![CGPA](https://img.shields.io/badge/CGPA-7.76-00f2fe?style=flat-square&logo=analytics&logoColor=0d1117)](#)
+<br>
 
----
+<img src="https://img.shields.io/badge/B.Tech-CSE-008080?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/Graduation-2026-008B8B?style=for-the-badge&logo=google-scholar&logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-7.76-20B2AA?style=for-the-badge&logo=bookstack&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Anakapalli%2C%20India-00ced1?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
-<a href="https://www.linkedin.com/in/kodamanchili-jaisri-025302322" target="_blank"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 🖥️ <a href="mailto:jaisrikodamanchili@gmail.com"><img src="https://img.shields.io/badge/Drop_an_Email-00f2fe?style=for-the-badge&logo=gmail&logoColor=0d1117"/></a>
+<br><br>
+
+<a href="https://www.linkedin.com/in/kodamanchili-jaisri-025302322" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:jaisrikodamanchili@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-008080?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/jaisri4032" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
+<br>
 
-# 🛠️ Execution & Architecture
+# ABOUT
 
-```python
-class DeveloperProfile:
-    def __init__(self):
-        self.name = "Kodamanchili Jaisri"
-        self.focus = ["Web Architecture", "Intelligent Automations"]
-        self.philosophy = "Bridging clean UI layout with robust data structures."
+## Software Engineer | Full Stack Developer
 
-    def core_philosophy(self):
-        return "I construct single-page applications utilizing React/Redux " \
-               "and back them up with structured SQL and Python pipelines."
+I am a Full Stack Developer focused on building clean, user-centric, and robust web applications. I mix layout structures like React.js and modern styling tools with reliable Python backends and structured SQL databases to bridge the gap between design and architecture.
+
+Beyond web development, I love exploring emerging technologies like Generative AI, smart automation, and intelligent workflows.
+
+### Open To
+
+- Full Stack Development Roles
+- Software Engineering Internships
+- Generative AI & Automation Opportunities
+
+<br>
+
+# TECH STACK
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react,redux" />
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=sql" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</div>
+
+<br>
+
+# EXPERTISE & FOCUS
+
+<div align="center">
+
+| Domain                   | Proficiency           | Details                                                          |
+| ------------------------ | ---------------------- | ----------------------------------------------------------------- |
+| Web Development          | Intermediate            | Structuring single-page applications using React and Redux        |
+| Python Programming       | Strong                  | Logic design, scripting, and backend development architecture    |
+| Database Engineering     | Intermediate            | Query optimization, database schemas, and structured data        |
+| Generative AI            | Enthusiast             | Exploring foundation models, prompt workflows, and AI integration |
+
+</div>
+
+---
+
+# FEATURED PROJECTS
+
+<details>
+<summary><b>🚀 Heart Stroke Prediction System</b></summary>
+
+<br>
+
+### Project Overview
+
+A predictive analytics platform leveraging ensemble machine learning techniques to assess and forecast heart stroke probabilities based on patient healthcare metrics.
+
+| Category    | Details                                      |
+| ----------- | --------------------------------------------- |
+| Stack       | Python, Machine Learning (Ensemble), Streamlit / Flask |
+| Scale       | Healthcare Predictive Simulation              |
+| Performance | Optimized Data Inference Pipelines           |
+| Security    | Schema Validation & Structured Processing      |
+| Impact      | Strengthened logic modeling and data flows   |
+| Repository  | Active / Main Branch                         |
+
+### Key Features
+
+* Patient Data Ingestion Pipelines
+* Multi-Variable Feature Evaluation Rules
+* High-Performance Predictive Modeling Logic
+* Fluid Interface Components for Metric Layouts
+
+</details>
+
+---
+
+# ACHIEVEMENTS
+
+<div align="center">
+
+| Recognition      | Details                                       |
+| ----------------- | ----------------------------------------------- |
+| Problem Solving   | Active practice solving technical core logic   |
+| Platform Learning | Exploring cutting-edge generative AI spaces     |
+| Community Work    | Contributing verified local business mapping data |
+
+</div>
+
+---
+
+# CERTIFICATIONS
+
+<div align="center">
+
+### Codegnan IT Solutions
+
+<img src="https://img.shields.io/badge/Python%20Full%20Stack-Trained-008080?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br><br>
+
+<a href="https://cg-course-completion-certificates.s3.amazonaws.com/Modules_completions/PFS-VSP-001/Python/CGVI0024.png" target="_blank">
+<img src="https://img.shields.io/badge/Python%20Core-Certificate-008B8B?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<a href="https://cg-course-completion-certificates.s3.amazonaws.com/Modules_completions/PFS-VSP-001/MySQL/CGVI0024.png" target="_blank">
+<img src="https://img.shields.io/badge/MySQL%20Database-Certificate-111827?style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+
+<br><br>
+
+### Tech & Ecosystem Foundations
+
+<img src="https://img.shields.io/badge/SAWiT.AI-Learnathon-20B2AA?style=for-the-badge&logo=ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/GUVI-Generative%20AI%20%26%20UI%2FUX-00ced1?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+
+</div>
+
+---
+
+# CODING PROFILES
+
+<div align="center">
+
+<a href="https://www.hackerrank.com/profile/jaisrikodamanch1" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+# GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=jaisri4032&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=4" />
+
+</div>
+
+---
+
+# CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaisri4032&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%" />
+
+</div>
+
+---
+
+# CURRENT FOCUS
+
+```yaml
+Learning:
+  - Advanced React State Workflows (Redux)
+  - Python Full Stack Architecture
+  - Generative AI Integration
+
+Building:
+  - Responsive Frontend Application Dashboards
+  - Structured SQL Database Architectures
+
+Exploring:
+  - Foundation Model Capabilities
+  - Intelligent Automation Workflows
+
+Open_To:
+  - Technical Collaborations
+  - Graduate Software Roles
