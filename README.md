@@ -10,8 +10,8 @@
 
 <img src="https://img.shields.io/badge/B.Tech-CSE-4338CA?style=for-the-badge&logo=academia&logoColor=white" />
 <img src="https://img.shields.io/badge/Graduation-2026-312E81?style=for-the-badge&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/CGPA-70%25-5B21B6?style=for-the-badge&logo=analytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-111827?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-7.76-5B21B6?style=for-the-badge&logo=analytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Anakapalli%2C%20India-111827?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br><br>
 
